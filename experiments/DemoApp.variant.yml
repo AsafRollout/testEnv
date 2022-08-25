@@ -1,0 +1,16 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: DemoApp.variant
+availableValues:
+  - var2
+  - var3
+  - vat1
+  - var4
+  - var5
+  - var6
+  - var7
+  - car8
+  - var9
+  - var10
+  - var11
+value: var5

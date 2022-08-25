@@ -1,0 +1,12 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: str
+availableValues:
+  - s2
+  - s1
+value:
+  - percentage: 50
+    option: s2
+  - percentage: 50
+    option: s1
